@@ -1,4 +1,5 @@
-# helloWorldDart
-First Program hello World with Dart
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
 
-Este está sendo meu primeiro contato com Git, a ideia inicial é aprender a ultizar o Git juntamente enquanto estudo o basico sobre as sintaxes de Dart.
+Created from templates made available by Stagehand under a BSD-style
+[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
