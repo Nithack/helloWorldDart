@@ -1,5 +1,22 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+#Hello World Dart V1
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+### Introdução
+
+A ideia deste projeto é printar no console o texto "Hello World", entendendo a sintaxe basica print().
+
+### Requisitos do Projeto:
+
+- Printar no console
+
+### Sintaxes Utilizadas
+
+##### PRINT()
+De maneira simples é uma função que imprime determinada informação no console.
+
+- `print("Hello World");`
+
+##### FUNÇÕES
+
+Funções pode ser utilizadas como chamada para determinado conjuto de codigo:
+
+- `void main()`
